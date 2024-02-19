@@ -1,0 +1,2 @@
+# Detecting_sexism-racism_text_personality
+Individual project
